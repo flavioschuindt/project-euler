@@ -1,4 +1,7 @@
-
+#
+# File: p4.py
+# Description: http://projecteuler.net/problem=4
+#
 
 palindros = set()
 for i in range(100, 1000):

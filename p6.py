@@ -1,3 +1,7 @@
+#
+# File: p6.py
+# Description: http://projecteuler.net/problem=6
+#
 
 soma_quadrado = 0
 soma = 0

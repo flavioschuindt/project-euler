@@ -1,5 +1,5 @@
 #
-# File: 3.py
+# File: p3.py
 # Description: http://projecteuler.net/problem=3
 #
 from math import ceil, sqrt, pow

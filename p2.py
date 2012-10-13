@@ -1,5 +1,5 @@
 #
-# File: 2.py
+# File: p2.py
 # Description: http://projecteuler.net/problem=2
 #
 
